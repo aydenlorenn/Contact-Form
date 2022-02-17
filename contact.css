@@ -1,0 +1,21 @@
+.header {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    line-height: 60px;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    line-height: 30px;
+}
+.contact-form-box {
+    border: solid 2px gray;
+    border-radius: 10px;
+    margin: 100px 450px 100px 450px;
+    padding: 20px;
+}
+.button {
+    display: inline;
+    width: 300px;
+}
